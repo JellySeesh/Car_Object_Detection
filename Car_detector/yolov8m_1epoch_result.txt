@@ -1,0 +1,75 @@
+(yolov8_custom) C:\Users\Shresth.Aggarwal\yolov8_custom>yolo task=detect mode=train epochs=1 data=data_custom.yaml model=yolov8m.pt imgsz=640
+Ultralytics YOLOv8.2.53 🚀 Python-3.12.4 torch-2.3.1+cpu CPU (Intel Core(TM) i7-6700 3.40GHz)
+engine\trainer: task=detect, mode=train, model=yolov8m.pt, data=data_custom.yaml, epochs=1, time=None, patience=100, batch=16, imgsz=640, save=True, save_period=-1, cache=False, device=None, workers=8, project=None, name=train, exist_ok=False, pretrained=True, optimizer=auto, verbose=True, seed=0, deterministic=True, single_cls=False, rect=False, cos_lr=False, close_mosaic=10, resume=False, amp=True, fraction=1.0, profile=False, freeze=None, multi_scale=False, overlap_mask=True, mask_ratio=4, dropout=0.0, val=True, split=val, save_json=False, save_hybrid=False, conf=None, iou=0.7, max_det=300, half=False, dnn=False, plots=True, source=None, vid_stride=1, stream_buffer=False, visualize=False, augment=False, agnostic_nms=False, classes=None, retina_masks=False, embed=None, show=False, save_frames=False, save_txt=False, save_conf=False, save_crop=False, show_labels=True, show_conf=True, show_boxes=True, line_width=None, format=torchscript, keras=False, optimize=False, int8=False, dynamic=False, simplify=False, opset=None, workspace=4, nms=False, lr0=0.01, lrf=0.01, momentum=0.937, weight_decay=0.0005, warmup_epochs=3.0, warmup_momentum=0.8, warmup_bias_lr=0.1, box=7.5, cls=0.5, dfl=1.5, pose=12.0, kobj=1.0, label_smoothing=0.0, nbs=64, hsv_h=0.015, hsv_s=0.7, hsv_v=0.4, degrees=0.0, translate=0.1, scale=0.5, shear=0.0, perspective=0.0, flipud=0.0, fliplr=0.5, bgr=0.0, mosaic=1.0, mixup=0.0, copy_paste=0.0, auto_augment=randaugment, erasing=0.4, crop_fraction=1.0, cfg=None, tracker=botsort.yaml, save_dir=runs\detect\train
+Overriding model.yaml nc=80 with nc=2
+
+                   from  n    params  module                                       arguments
+  0                  -1  1      1392  ultralytics.nn.modules.conv.Conv             [3, 48, 3, 2]
+  1                  -1  1     41664  ultralytics.nn.modules.conv.Conv             [48, 96, 3, 2]
+  2                  -1  2    111360  ultralytics.nn.modules.block.C2f             [96, 96, 2, True]
+  3                  -1  1    166272  ultralytics.nn.modules.conv.Conv             [96, 192, 3, 2]
+  4                  -1  4    813312  ultralytics.nn.modules.block.C2f             [192, 192, 4, True]
+  5                  -1  1    664320  ultralytics.nn.modules.conv.Conv             [192, 384, 3, 2]
+  6                  -1  4   3248640  ultralytics.nn.modules.block.C2f             [384, 384, 4, True]
+  7                  -1  1   1991808  ultralytics.nn.modules.conv.Conv             [384, 576, 3, 2]
+  8                  -1  2   3985920  ultralytics.nn.modules.block.C2f             [576, 576, 2, True]
+  9                  -1  1    831168  ultralytics.nn.modules.block.SPPF            [576, 576, 5]
+ 10                  -1  1         0  torch.nn.modules.upsampling.Upsample         [None, 2, 'nearest']
+ 11             [-1, 6]  1         0  ultralytics.nn.modules.conv.Concat           [1]
+ 12                  -1  2   1993728  ultralytics.nn.modules.block.C2f             [960, 384, 2]
+ 13                  -1  1         0  torch.nn.modules.upsampling.Upsample         [None, 2, 'nearest']
+ 14             [-1, 4]  1         0  ultralytics.nn.modules.conv.Concat           [1]
+ 15                  -1  2    517632  ultralytics.nn.modules.block.C2f             [576, 192, 2]
+ 16                  -1  1    332160  ultralytics.nn.modules.conv.Conv             [192, 192, 3, 2]
+ 17            [-1, 12]  1         0  ultralytics.nn.modules.conv.Concat           [1]
+ 18                  -1  2   1846272  ultralytics.nn.modules.block.C2f             [576, 384, 2]
+ 19                  -1  1   1327872  ultralytics.nn.modules.conv.Conv             [384, 384, 3, 2]
+ 20             [-1, 9]  1         0  ultralytics.nn.modules.conv.Concat           [1]
+ 21                  -1  2   4207104  ultralytics.nn.modules.block.C2f             [960, 576, 2]
+ 22        [15, 18, 21]  1   3776854  ultralytics.nn.modules.head.Detect           [2, [192, 384, 576]]
+Model summary: 295 layers, 25857478 parameters, 25857462 gradients, 79.1 GFLOPs
+
+Transferred 469/475 items from pretrained weights
+Freezing layer 'model.22.dfl.conv.weight'
+train: Scanning C:\Users\Shresth.Aggarwal\yolov8_custom\train\labels... 801 images, 0 backgrounds, 0 corrupt: 100%|██████████| 801/801 [00:03<00:00, 234.98it/s]
+train: New cache created: C:\Users\Shresth.Aggarwal\yolov8_custom\train\labels.cache
+val: Scanning C:\Users\Shresth.Aggarwal\yolov8_custom\val\labels... 200 images, 0 backgrounds, 0 corrupt: 100%|██████████| 200/200 [00:00<00:00, 248.54it/s]
+val: New cache created: C:\Users\Shresth.Aggarwal\yolov8_custom\val\labels.cache
+Plotting labels to runs\detect\train\labels.jpg...
+optimizer: 'optimizer=auto' found, ignoring 'lr0=0.01' and 'momentum=0.937' and determining best 'optimizer', 'lr0' and 'momentum' automatically...
+optimizer: AdamW(lr=0.001667, momentum=0.9) with parameter groups 77 weight(decay=0.0), 84 weight(decay=0.0005), 83 bias(decay=0.0)
+Image sizes 640 train, 640 val
+Using 0 dataloader workers
+Logging results to runs\detect\train
+Starting training for 1 epochs...
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+        1/1         0G     0.4107        1.2     0.9281          5        640: 100%|██████████| 51/51 [1:14:46<00:00, 87.97s/it]
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100%|██████████| 7/7 [03:22<00:00, 28.88s/it]
+                   all        200        246      0.802      0.756      0.824       0.69
+
+1 epochs completed in 1.304 hours.
+Optimizer stripped from runs\detect\train\weights\last.pt, 52.0MB
+Optimizer stripped from runs\detect\train\weights\best.pt, 52.0MB
+
+Validating runs\detect\train\weights\best.pt...
+Ultralytics YOLOv8.2.53 🚀 Python-3.12.4 torch-2.3.1+cpu CPU (Intel Core(TM) i7-6700 3.40GHz)
+Model summary (fused): 218 layers, 25840918 parameters, 0 gradients, 78.7 GFLOPs
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100%|██████████| 7/7 [03:04<00:00, 26.31s/it]
+                   all        200        246      0.802      0.756      0.824      0.691
+                   car         63        109      0.945      0.789      0.915      0.697
+                no car        137        137      0.659      0.723      0.733      0.685
+Speed: 3.8ms preprocess, 907.6ms inference, 0.0ms loss, 0.5ms postprocess per image
+Results saved to runs\detect\train
+💡 Learn more at https://docs.ultralytics.com/modes/train
+
+Validating runs\detect\train\weights\best.pt...
+Ultralytics YOLOv8.2.53 🚀 Python-3.12.4 torch-2.3.1+cpu CPU (Intel Core(TM) i7-6700 3.40GHz)
+Model summary (fused): 218 layers, 25840918 parameters, 0 gradients, 78.7 GFLOPs
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100%|██████████| 7/7 [03:04<00:00, 26.31s/it]
+                   all        200        246      0.802      0.756      0.824      0.691
+                   car         63        109      0.945      0.789      0.915      0.697
+                no car        137        137      0.659      0.723      0.733      0.685
+Speed: 3.8ms preprocess, 907.6ms inference, 0.0ms loss, 0.5ms postprocess per image
+Results saved to runs\detect\train
+💡 Learn more at https://docs.ultralytics.com/modes/train

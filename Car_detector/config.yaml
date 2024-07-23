@@ -1,0 +1,9 @@
+path: C:\Users\Shresth.Aggarwal\PycharmProjects\object_detection\Car_detector2\data #dataset root directory #absolute path
+train: train_split # train images (relative to 'path')
+val: val_split # (relative to 'path')
+
+
+#Classes
+names:
+  0: car
+  1: no car
