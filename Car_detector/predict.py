@@ -15,7 +15,7 @@ model_path = os.path.join('.', 'runs', 'detect', 'train', 'weights', 'best.pt')
 # Load a model
 model = YOLO(model_path)  # load a custom model
 
-threshold = 0.5
+threshold = 0.3
 
 # List all image files in the directory
 image_files = [f for f in os.listdir(IMAGES_DIR) if f.lower().endswith('.jpg')]

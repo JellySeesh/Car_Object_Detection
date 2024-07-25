@@ -1,6 +1,6 @@
-path: C:\Users\Shresth.Aggarwal\PycharmProjects\object_detection\Car_detector\data2 #dataset root directory #absolute path
-train: images\train # train images (relative to 'path')
-val: images\test # (relative to 'path')
+path: C:\Users\Shresth.Aggarwal\PycharmProjects\object_detection\Car_detector\data #dataset root directory #absolute path
+train: images\training_images # train images (relative to 'path')
+val: images\testing_images # (relative to 'path')
 
 
 #Classes
