@@ -1,0 +1,805 @@
+Object: car, Score: 0.86
+Object: car, Score: 0.84
+Object: car, Score: 0.78
+Processed: vid_5_26800.jpg
+
+0: 384x640 2 cars, 134.6ms
+Speed: 3.0ms preprocess, 134.6ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.93
+Object: car, Score: 0.88
+Processed: vid_5_26820.jpg
+
+0: 384x640 1 car, 129.7ms
+Speed: 2.0ms preprocess, 129.7ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.87
+Processed: vid_5_26840.jpg
+
+0: 384x640 1 car, 1 no car, 129.7ms
+Speed: 2.0ms preprocess, 129.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.67
+Object: no car, Score: 0.57
+Processed: vid_5_26860.jpg
+
+0: 384x640 1 car, 128.6ms
+Speed: 2.0ms preprocess, 128.6ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.76
+Processed: vid_5_26880.jpg
+
+0: 384x640 2 cars, 157.6ms
+Speed: 3.0ms preprocess, 157.6ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.87
+Object: car, Score: 0.87
+Processed: vid_5_26900.jpg
+
+0: 384x640 2 cars, 130.7ms
+Speed: 2.0ms preprocess, 130.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.94
+Object: car, Score: 0.77
+Processed: vid_5_26920.jpg
+
+0: 384x640 2 cars, 129.7ms
+Speed: 2.0ms preprocess, 129.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.85
+Object: car, Score: 0.82
+Processed: vid_5_26940.jpg
+
+0: 384x640 1 car, 141.6ms
+Speed: 3.0ms preprocess, 141.6ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.86
+Processed: vid_5_26960.jpg
+
+0: 384x640 1 no car, 128.7ms
+Speed: 2.0ms preprocess, 128.7ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.90
+Processed: vid_5_26980.jpg
+
+0: 384x640 1 car, 127.7ms
+Speed: 2.0ms preprocess, 127.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.84
+Processed: vid_5_27240.jpg
+
+0: 384x640 1 no car, 133.6ms
+Speed: 2.0ms preprocess, 133.6ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.89
+Processed: vid_5_27260.jpg
+
+0: 384x640 1 no car, 128.7ms
+Speed: 2.0ms preprocess, 128.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.85
+Processed: vid_5_27280.jpg
+
+0: 384x640 1 car, 1 no car, 132.6ms
+Speed: 2.0ms preprocess, 132.6ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.57
+Object: car, Score: 0.29
+Processed: vid_5_27300.jpg
+
+0: 384x640 1 no car, 126.7ms
+Speed: 2.0ms preprocess, 126.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.67
+Processed: vid_5_27320.jpg
+
+0: 384x640 2 cars, 128.7ms
+Speed: 3.0ms preprocess, 128.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.76
+Object: car, Score: 0.26
+Processed: vid_5_27360.jpg
+
+0: 384x640 3 cars, 129.6ms
+Speed: 2.0ms preprocess, 129.6ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.63
+Object: car, Score: 0.42
+Object: car, Score: 0.26
+Processed: vid_5_27380.jpg
+
+0: 384x640 3 cars, 126.7ms
+Speed: 3.0ms preprocess, 126.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.67
+Object: car, Score: 0.55
+Object: car, Score: 0.52
+Processed: vid_5_27400.jpg
+
+0: 384x640 3 cars, 129.7ms
+Speed: 2.0ms preprocess, 129.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.67
+Object: car, Score: 0.61
+Object: car, Score: 0.53
+Processed: vid_5_27420.jpg
+
+0: 384x640 3 cars, 127.7ms
+Speed: 2.0ms preprocess, 127.7ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.77
+Object: car, Score: 0.76
+Object: car, Score: 0.67
+Processed: vid_5_27440.jpg
+
+0: 384x640 4 cars, 131.6ms
+Speed: 2.0ms preprocess, 131.6ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.69
+Object: car, Score: 0.50
+Object: car, Score: 0.40
+Object: car, Score: 0.33
+Processed: vid_5_27460.jpg
+
+0: 384x640 7 cars, 134.6ms
+Speed: 2.0ms preprocess, 134.6ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.89
+Object: car, Score: 0.70
+Object: car, Score: 0.55
+Object: car, Score: 0.55
+Object: car, Score: 0.32
+Object: car, Score: 0.30
+Object: car, Score: 0.26
+Processed: vid_5_27480.jpg
+
+0: 384x640 1 car, 134.7ms
+Speed: 2.0ms preprocess, 134.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.91
+Processed: vid_5_27500.jpg
+
+0: 384x640 3 cars, 124.7ms
+Speed: 2.0ms preprocess, 124.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.72
+Object: car, Score: 0.70
+Object: car, Score: 0.38
+Processed: vid_5_27520.jpg
+
+0: 384x640 3 cars, 138.7ms
+Speed: 2.0ms preprocess, 138.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.63
+Object: car, Score: 0.50
+Object: car, Score: 0.28
+Processed: vid_5_27540.jpg
+
+0: 384x640 1 car, 1 no car, 130.7ms
+Speed: 2.0ms preprocess, 130.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.68
+Object: car, Score: 0.46
+Processed: vid_5_27560.jpg
+
+0: 384x640 1 car, 1 no car, 133.6ms
+Speed: 3.0ms preprocess, 133.6ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.83
+Object: car, Score: 0.54
+Processed: vid_5_27580.jpg
+
+0: 384x640 1 no car, 125.7ms
+Speed: 2.0ms preprocess, 125.7ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.90
+Processed: vid_5_27600.jpg
+
+0: 384x640 1 car, 126.6ms
+Speed: 2.0ms preprocess, 126.6ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.89
+Processed: vid_5_27620.jpg
+
+0: 384x640 1 car, 137.6ms
+Speed: 2.0ms preprocess, 137.6ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.83
+Processed: vid_5_27640.jpg
+
+0: 384x640 1 no car, 127.7ms
+Speed: 2.0ms preprocess, 127.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.91
+Processed: vid_5_27660.jpg
+
+0: 384x640 1 no car, 125.7ms
+Speed: 2.0ms preprocess, 125.7ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.91
+Processed: vid_5_27680.jpg
+
+0: 384x640 1 no car, 131.6ms
+Speed: 2.0ms preprocess, 131.6ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.91
+Processed: vid_5_27700.jpg
+
+0: 384x640 1 no car, 153.6ms
+Speed: 3.0ms preprocess, 153.6ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.91
+Processed: vid_5_27720.jpg
+
+0: 384x640 1 no car, 128.6ms
+Speed: 2.0ms preprocess, 128.6ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.90
+Processed: vid_5_27740.jpg
+
+0: 384x640 1 no car, 159.5ms
+Speed: 3.0ms preprocess, 159.5ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.90
+Processed: vid_5_27760.jpg
+
+0: 384x640 1 no car, 140.6ms
+Speed: 2.0ms preprocess, 140.6ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.91
+Processed: vid_5_27780.jpg
+
+0: 384x640 1 no car, 147.6ms
+Speed: 3.0ms preprocess, 147.6ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.90
+Processed: vid_5_27800.jpg
+
+0: 384x640 1 no car, 149.6ms
+Speed: 2.0ms preprocess, 149.6ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.91
+Processed: vid_5_27820.jpg
+
+0: 384x640 1 car, 126.7ms
+Speed: 2.0ms preprocess, 126.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.87
+Processed: vid_5_27840.jpg
+
+0: 384x640 1 car, 127.7ms
+Speed: 2.0ms preprocess, 127.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.92
+Processed: vid_5_27860.jpg
+
+0: 384x640 1 car, 133.7ms
+Speed: 3.0ms preprocess, 133.7ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.88
+Processed: vid_5_27880.jpg
+
+0: 384x640 1 car, 127.7ms
+Speed: 2.0ms preprocess, 127.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.84
+Processed: vid_5_27900.jpg
+
+0: 384x640 1 car, 127.7ms
+Speed: 2.0ms preprocess, 127.7ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.90
+Processed: vid_5_27920.jpg
+
+0: 384x640 1 car, 1 no car, 133.7ms
+Speed: 3.0ms preprocess, 133.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.55
+Object: car, Score: 0.46
+Processed: vid_5_27940.jpg
+
+0: 384x640 1 no car, 130.7ms
+Speed: 2.0ms preprocess, 130.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.81
+Processed: vid_5_27960.jpg
+
+0: 384x640 1 no car, 125.7ms
+Speed: 3.0ms preprocess, 125.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.83
+Processed: vid_5_27980.jpg
+
+0: 384x640 1 no car, 127.7ms
+Speed: 2.0ms preprocess, 127.7ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.84
+Processed: vid_5_28000.jpg
+
+0: 384x640 1 no car, 126.7ms
+Speed: 3.0ms preprocess, 126.7ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.83
+Processed: vid_5_28020.jpg
+
+0: 384x640 1 no car, 134.6ms
+Speed: 2.0ms preprocess, 134.6ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.89
+Processed: vid_5_28040.jpg
+
+0: 384x640 1 no car, 132.6ms
+Speed: 2.0ms preprocess, 132.6ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.81
+Processed: vid_5_28060.jpg
+
+0: 384x640 1 no car, 128.7ms
+Speed: 2.0ms preprocess, 128.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.84
+Processed: vid_5_28080.jpg
+
+0: 384x640 1 no car, 127.6ms
+Speed: 2.0ms preprocess, 127.6ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.84
+Processed: vid_5_28180.jpg
+
+0: 384x640 1 car, 128.7ms
+Speed: 3.0ms preprocess, 128.7ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.85
+Processed: vid_5_28260.jpg
+
+0: 384x640 1 no car, 128.7ms
+Speed: 2.0ms preprocess, 128.7ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.90
+Processed: vid_5_28320.jpg
+
+0: 384x640 1 no car, 125.7ms
+Speed: 2.0ms preprocess, 125.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.89
+Processed: vid_5_28340.jpg
+
+0: 384x640 1 no car, 130.7ms
+Speed: 2.0ms preprocess, 130.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.88
+Processed: vid_5_28360.jpg
+
+0: 384x640 1 car, 136.6ms
+Speed: 2.0ms preprocess, 136.6ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.72
+Processed: vid_5_28380.jpg
+
+0: 384x640 1 car, 126.7ms
+Speed: 2.0ms preprocess, 126.7ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.93
+Processed: vid_5_28420.jpg
+
+0: 384x640 1 car, 124.7ms
+Speed: 2.0ms preprocess, 124.7ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.75
+Processed: vid_5_28440.jpg
+
+0: 384x640 1 no car, 129.7ms
+Speed: 2.0ms preprocess, 129.7ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.89
+Processed: vid_5_28460.jpg
+
+0: 384x640 1 no car, 128.7ms
+Speed: 2.0ms preprocess, 128.7ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.90
+Processed: vid_5_28480.jpg
+
+0: 384x640 1 car, 126.7ms
+Speed: 2.0ms preprocess, 126.7ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.66
+Processed: vid_5_28500.jpg
+
+0: 384x640 2 cars, 131.6ms
+Speed: 3.0ms preprocess, 131.6ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.74
+Object: car, Score: 0.62
+Processed: vid_5_28520.jpg
+
+0: 384x640 2 cars, 123.7ms
+Speed: 2.0ms preprocess, 123.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.69
+Object: car, Score: 0.26
+Processed: vid_5_28540.jpg
+
+0: 384x640 1 no car, 128.7ms
+Speed: 2.0ms preprocess, 128.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.88
+Processed: vid_5_28560.jpg
+
+0: 384x640 1 no car, 125.7ms
+Speed: 2.0ms preprocess, 125.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.88
+Processed: vid_5_28580.jpg
+
+0: 384x640 1 no car, 125.7ms
+Speed: 2.0ms preprocess, 125.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.89
+Processed: vid_5_28600.jpg
+
+0: 384x640 1 no car, 128.7ms
+Speed: 2.0ms preprocess, 128.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.90
+Processed: vid_5_28620.jpg
+
+0: 384x640 1 no car, 150.6ms
+Speed: 2.0ms preprocess, 150.6ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.90
+Processed: vid_5_28640.jpg
+
+0: 384x640 1 no car, 127.7ms
+Speed: 3.0ms preprocess, 127.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.88
+Processed: vid_5_28660.jpg
+
+0: 384x640 1 no car, 126.7ms
+Speed: 2.0ms preprocess, 126.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.84
+Processed: vid_5_28680.jpg
+
+0: 384x640 1 no car, 131.6ms
+Speed: 2.0ms preprocess, 131.6ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.83
+Processed: vid_5_28700.jpg
+
+0: 384x640 2 cars, 130.7ms
+Speed: 2.0ms preprocess, 130.7ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.93
+Object: car, Score: 0.85
+Processed: vid_5_29000.jpg
+
+0: 384x640 1 car, 128.7ms
+Speed: 2.0ms preprocess, 128.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.89
+Processed: vid_5_29020.jpg
+
+0: 384x640 1 car, 130.7ms
+Speed: 2.0ms preprocess, 130.7ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.67
+Processed: vid_5_29040.jpg
+
+0: 384x640 1 no car, 126.7ms
+Speed: 2.0ms preprocess, 126.7ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.88
+Processed: vid_5_29060.jpg
+
+0: 384x640 1 no car, 132.6ms
+Speed: 2.0ms preprocess, 132.6ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.89
+Processed: vid_5_29080.jpg
+
+0: 384x640 1 no car, 132.6ms
+Speed: 2.0ms preprocess, 132.6ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.89
+Processed: vid_5_29100.jpg
+
+0: 384x640 1 car, 126.7ms
+Speed: 2.0ms preprocess, 126.7ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.89
+Processed: vid_5_29400.jpg
+
+0: 384x640 2 cars, 132.6ms
+Speed: 2.0ms preprocess, 132.6ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.82
+Object: car, Score: 0.75
+Processed: vid_5_29420.jpg
+
+0: 384x640 2 cars, 129.7ms
+Speed: 2.0ms preprocess, 129.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.93
+Object: car, Score: 0.72
+Processed: vid_5_29440.jpg
+
+0: 384x640 1 car, 126.7ms
+Speed: 2.0ms preprocess, 126.7ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.91
+Processed: vid_5_29460.jpg
+
+0: 384x640 1 car, 125.7ms
+Speed: 2.0ms preprocess, 125.7ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.89
+Processed: vid_5_29480.jpg
+
+0: 384x640 1 no car, 128.7ms
+Speed: 2.0ms preprocess, 128.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.85
+Processed: vid_5_29500.jpg
+
+0: 384x640 1 no car, 134.6ms
+Speed: 2.0ms preprocess, 134.6ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.84
+Processed: vid_5_29520.jpg
+
+0: 384x640 2 cars, 130.7ms
+Speed: 3.0ms preprocess, 130.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.85
+Object: car, Score: 0.78
+Processed: vid_5_29540.jpg
+
+0: 384x640 1 car, 130.7ms
+Speed: 2.0ms preprocess, 130.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.92
+Processed: vid_5_29560.jpg
+
+0: 384x640 1 car, 1 no car, 128.7ms
+Speed: 2.0ms preprocess, 128.7ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.69
+Object: no car, Score: 0.30
+Processed: vid_5_29580.jpg
+
+0: 384x640 1 no car, 131.7ms
+Speed: 2.0ms preprocess, 131.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.85
+Processed: vid_5_29600.jpg
+
+0: 384x640 1 no car, 125.7ms
+Speed: 2.0ms preprocess, 125.7ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.89
+Processed: vid_5_29620.jpg
+
+0: 384x640 1 no car, 129.7ms
+Speed: 2.0ms preprocess, 129.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.90
+Processed: vid_5_29640.jpg
+
+0: 384x640 1 no car, 124.7ms
+Speed: 2.0ms preprocess, 124.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.89
+Processed: vid_5_29720.jpg
+
+0: 384x640 1 no car, 134.6ms
+Speed: 3.0ms preprocess, 134.6ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.88
+Processed: vid_5_29740.jpg
+
+0: 384x640 1 car, 129.7ms
+Speed: 2.0ms preprocess, 129.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.82
+Processed: vid_5_29760.jpg
+
+0: 384x640 2 cars, 126.7ms
+Speed: 3.0ms preprocess, 126.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.84
+Object: car, Score: 0.25
+Processed: vid_5_29820.jpg
+
+0: 384x640 1 car, 125.7ms
+Speed: 2.0ms preprocess, 125.7ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.88
+Processed: vid_5_29840.jpg
+
+0: 384x640 1 no car, 144.6ms
+Speed: 2.0ms preprocess, 144.6ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.90
+Processed: vid_5_29860.jpg
+
+0: 384x640 1 no car, 126.7ms
+Speed: 2.0ms preprocess, 126.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.91
+Processed: vid_5_29880.jpg
+
+0: 384x640 1 no car, 127.7ms
+Speed: 3.0ms preprocess, 127.7ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.92
+Processed: vid_5_29900.jpg
+
+0: 384x640 1 no car, 126.7ms
+Speed: 2.0ms preprocess, 126.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.92
+Processed: vid_5_29980.jpg
+
+0: 384x640 1 no car, 132.7ms
+Speed: 2.0ms preprocess, 132.7ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.91
+Processed: vid_5_30000.jpg
+
+0: 384x640 1 no car, 127.7ms
+Speed: 2.0ms preprocess, 127.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.91
+Processed: vid_5_30020.jpg
+
+0: 384x640 1 no car, 126.7ms
+Speed: 3.0ms preprocess, 126.7ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.90
+Processed: vid_5_30040.jpg
+
+0: 384x640 1 no car, 141.6ms
+Speed: 3.0ms preprocess, 141.6ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.91
+Processed: vid_5_30120.jpg
+
+0: 384x640 1 no car, 134.7ms
+Speed: 3.0ms preprocess, 134.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.89
+Processed: vid_5_30140.jpg
+
+0: 384x640 1 no car, 128.7ms
+Speed: 2.0ms preprocess, 128.7ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.89
+Processed: vid_5_30160.jpg
+
+0: 384x640 1 no car, 131.6ms
+Speed: 2.0ms preprocess, 131.6ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.87
+Processed: vid_5_30180.jpg
+
+0: 384x640 1 car, 133.6ms
+Speed: 2.0ms preprocess, 133.6ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.85
+Processed: vid_5_30640.jpg
+
+0: 384x640 1 no car, 141.6ms
+Speed: 3.0ms preprocess, 141.6ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.90
+Processed: vid_5_30660.jpg
+
+0: 384x640 1 no car, 129.7ms
+Speed: 3.0ms preprocess, 129.7ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.90
+Processed: vid_5_30680.jpg
+
+0: 384x640 1 no car, 123.7ms
+Speed: 2.0ms preprocess, 123.7ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.91
+Processed: vid_5_30700.jpg
+
+0: 384x640 1 no car, 128.7ms
+Speed: 2.0ms preprocess, 128.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.91
+Processed: vid_5_30720.jpg
+
+0: 384x640 1 car, 1 no car, 129.7ms
+Speed: 2.0ms preprocess, 129.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.71
+Object: no car, Score: 0.44
+Processed: vid_5_30740.jpg
+
+0: 384x640 2 cars, 124.7ms
+Speed: 2.0ms preprocess, 124.7ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.76
+Object: car, Score: 0.36
+Processed: vid_5_30760.jpg
+
+0: 384x640 1 car, 132.6ms
+Speed: 2.0ms preprocess, 132.6ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.78
+Processed: vid_5_30820.jpg
+
+0: 384x640 2 cars, 127.7ms
+Speed: 1.0ms preprocess, 127.7ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.46
+Object: car, Score: 0.40
+Processed: vid_5_30840.jpg
+
+0: 384x640 1 car, 136.6ms
+Speed: 2.0ms preprocess, 136.6ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.69
+Processed: vid_5_30860.jpg
+
+0: 384x640 2 cars, 129.7ms
+Speed: 2.0ms preprocess, 129.7ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.80
+Object: car, Score: 0.54
+Processed: vid_5_30920.jpg
+
+0: 384x640 2 cars, 129.6ms
+Speed: 2.0ms preprocess, 129.6ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.78
+Object: car, Score: 0.33
+Processed: vid_5_30940.jpg
+
+0: 384x640 2 cars, 127.7ms
+Speed: 2.0ms preprocess, 127.7ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.90
+Object: car, Score: 0.87
+Processed: vid_5_31020.jpg
+
+0: 384x640 3 cars, 135.6ms
+Speed: 2.0ms preprocess, 135.6ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.86
+Object: car, Score: 0.83
+Object: car, Score: 0.55
+Processed: vid_5_31040.jpg
+
+0: 384x640 1 car, 131.6ms
+Speed: 2.0ms preprocess, 131.6ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.90
+Processed: vid_5_31060.jpg
+
+0: 384x640 2 cars, 126.7ms
+Speed: 2.0ms preprocess, 126.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.83
+Object: car, Score: 0.79
+Processed: vid_5_31080.jpg
+
+0: 384x640 1 car, 127.7ms
+Speed: 2.0ms preprocess, 127.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.88
+Processed: vid_5_31100.jpg
+
+0: 384x640 2 cars, 131.7ms
+Speed: 2.0ms preprocess, 131.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.89
+Object: car, Score: 0.78
+Processed: vid_5_31120.jpg
+
+0: 384x640 1 car, 129.7ms
+Speed: 3.0ms preprocess, 129.7ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.87
+Processed: vid_5_31140.jpg
+
+0: 384x640 1 car, 126.7ms
+Speed: 2.0ms preprocess, 126.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.89
+Processed: vid_5_31160.jpg
+
+0: 384x640 1 no car, 128.7ms
+Speed: 2.0ms preprocess, 128.7ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.83
+Processed: vid_5_31180.jpg
+
+0: 384x640 1 no car, 162.5ms
+Speed: 2.0ms preprocess, 162.5ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.80
+Processed: vid_5_31200.jpg
+
+0: 384x640 1 no car, 127.7ms
+Speed: 2.0ms preprocess, 127.7ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.82
+Processed: vid_5_31260.jpg
+
+0: 384x640 1 no car, 127.7ms
+Speed: 2.0ms preprocess, 127.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.82
+Processed: vid_5_31280.jpg
+
+0: 384x640 1 no car, 125.7ms
+Speed: 2.0ms preprocess, 125.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.82
+Processed: vid_5_31300.jpg
+
+0: 384x640 1 no car, 129.7ms
+Speed: 2.0ms preprocess, 129.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.80
+Processed: vid_5_31360.jpg
+
+0: 384x640 1 no car, 126.7ms
+Speed: 2.0ms preprocess, 126.7ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.81
+Processed: vid_5_31380.jpg
+
+0: 384x640 1 no car, 128.7ms
+Speed: 2.0ms preprocess, 128.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.81
+Processed: vid_5_31400.jpg
+
+0: 384x640 1 no car, 126.7ms
+Speed: 2.0ms preprocess, 126.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.84
+Processed: vid_5_31420.jpg
+
+0: 384x640 1 no car, 140.6ms
+Speed: 2.0ms preprocess, 140.6ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.84
+Processed: vid_5_31480.jpg
+
+0: 384x640 1 no car, 125.7ms
+Speed: 3.0ms preprocess, 125.7ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.86
+Processed: vid_5_31500.jpg
+
+0: 384x640 1 no car, 129.7ms
+Speed: 2.0ms preprocess, 129.7ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.76
+Processed: vid_5_31520.jpg
+
+0: 384x640 1 car, 124.7ms
+Speed: 2.0ms preprocess, 124.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.90
+Processed: vid_5_31560.jpg
+
+0: 384x640 2 cars, 126.6ms
+Speed: 2.0ms preprocess, 126.6ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.87
+Object: car, Score: 0.82
+Processed: vid_5_31600.jpg
+
+0: 384x640 1 car, 133.7ms
+Speed: 2.0ms preprocess, 133.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.84
+Processed: vid_5_31620.jpg
+
+0: 384x640 1 no car, 132.7ms
+Speed: 2.0ms preprocess, 132.7ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.92
+Processed: vid_5_31640.jpg
+
+0: 384x640 1 no car, 125.7ms
+Speed: 3.0ms preprocess, 125.7ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.92
+Processed: vid_5_31660.jpg
+
+0: 384x640 1 no car, 125.7ms
+Speed: 3.0ms preprocess, 125.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.93
+Processed: vid_5_31680.jpg
+
+0: 384x640 1 car, 136.6ms
+Speed: 2.0ms preprocess, 136.6ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.92
+Processed: vid_5_31700.jpg
+
+0: 384x640 1 car, 130.6ms
+Speed: 2.0ms preprocess, 130.6ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.87
+Processed: vid_5_31720.jpg
+
+0: 384x640 1 no car, 128.7ms
+Speed: 2.0ms preprocess, 128.7ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.71
+Processed: vid_5_400.jpg
+
+0: 384x640 1 no car, 127.6ms
+Speed: 2.0ms preprocess, 127.6ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: no car, Score: 0.40
+Processed: vid_5_420.jpg
+
+0: 384x640 1 car, 134.7ms
+Speed: 2.0ms preprocess, 134.7ms inference, 0.0ms postprocess per image at shape (1, 3, 384, 640)
+Object: car, Score: 0.68
+Processed: vid_5_440.jpg
+Processing complete.
