@@ -4,7 +4,7 @@ import streamlit as st
 from ultralytics import YOLO
 
 # Load the model and set the threshold
-model_path = os.path.join('.', 'runs', 'detect', 'train', 'weights', 'best.pt')
+model_path = os.path.join('.', 'runs', 'detect', 'train16', 'weights', 'best.pt')
 model = YOLO(model_path)
 threshold = 0.5
 
