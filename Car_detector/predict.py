@@ -10,7 +10,7 @@ OUTPUT_DIR = os.path.join('.', 'output')
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # Path to YOLO model weights file
-model_path = os.path.join('.', 'runs', 'detect', 'train', 'weights', 'best.pt')
+model_path = os.path.join('.', 'runs', 'detect', 'train16', 'weights', 'best.pt')
 
 # Load a model
 model = YOLO(model_path)  # load a custom model
